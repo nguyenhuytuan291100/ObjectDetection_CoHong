@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>310.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other-ship</name>
+			</possibleresult>
+			<points>
+				<point>694.000000,209.000000</point>
+				<point>678.000000,215.000000</point>
+				<point>655.000000,156.000000</point>
+				<point>669.000000,150.000000</point>
+				<point>694.000000,209.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>767.000000,416.000000</point>
+				<point>717.000000,434.000000</point>
+				<point>650.000000,245.000000</point>
+				<point>700.000000,227.000000</point>
+				<point>767.000000,416.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Passenger Ship</name>
+			</possibleresult>
+			<points>
+				<point>626.000000,472.000000</point>
+				<point>598.000000,481.000000</point>
+				<point>561.000000,379.000000</point>
+				<point>590.000000,368.000000</point>
+				<point>626.000000,472.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>784.000061,572.000244</point>
+				<point>747.848694,474.592438</point>
+				<point>771.000061,466.000122</point>
+				<point>807.151428,563.407959</point>
+				<point>784.000061,572.000244</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

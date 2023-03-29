@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>8092.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>475.000000,230.000000</point>
+				<point>463.000000,237.000000</point>
+				<point>426.000000,174.000000</point>
+				<point>439.000000,167.000000</point>
+				<point>475.000000,230.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>592.000000,315.000000</point>
+				<point>521.000000,314.000000</point>
+				<point>522.000000,300.000000</point>
+				<point>592.000000,302.000000</point>
+				<point>592.000000,315.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>498.000000,476.000000</point>
+				<point>493.000000,490.000000</point>
+				<point>431.000000,470.000000</point>
+				<point>436.000000,455.000000</point>
+				<point>498.000000,476.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>465.999939,801.999878</point>
+				<point>399.999939,766.999878</point>
+				<point>405.869873,755.930908</point>
+				<point>471.869873,790.930908</point>
+				<point>465.999939,801.999878</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

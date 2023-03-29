@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>2189.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>179.999969,307.000061</point>
+				<point>-11.000000,284.000061</point>
+				<point>6.587158,137.950348</point>
+				<point>197.587128,160.950348</point>
+				<point>179.999969,307.000061</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>560.000000,658.000000</point>
+				<point>559.000000,675.000000</point>
+				<point>547.000000,675.000000</point>
+				<point>547.000000,657.000000</point>
+				<point>560.000000,658.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Van</name>
+			</possibleresult>
+			<points>
+				<point>316.000000,517.000000</point>
+				<point>281.000000,519.000000</point>
+				<point>280.000000,504.000000</point>
+				<point>316.000000,502.000000</point>
+				<point>316.000000,517.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

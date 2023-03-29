@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>15221.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>171.999969,555.000000</point>
+				<point>144.542358,600.000000</point>
+				<point>120.440681,600.000000</point>
+				<point>154.437073,544.283691</point>
+				<point>171.999969,555.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Warship</name>
+			</possibleresult>
+			<points>
+				<point>593.000000,455.000000</point>
+				<point>525.000000,562.000000</point>
+				<point>506.000000,551.000000</point>
+				<point>575.000000,445.000000</point>
+				<point>593.000000,455.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Motorboat</name>
+			</possibleresult>
+			<points>
+				<point>129.000000,506.000000</point>
+				<point>126.000000,512.000000</point>
+				<point>107.000000,503.000000</point>
+				<point>110.000000,497.000000</point>
+				<point>129.000000,506.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

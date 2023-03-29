@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>14045.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>ARJ21</name>
+			</possibleresult>
+			<points>
+				<point>211.000000,365.000000</point>
+				<point>196.000000,393.000000</point>
+				<point>153.000000,371.000000</point>
+				<point>168.000000,343.000000</point>
+				<point>211.000000,365.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A220</name>
+			</possibleresult>
+			<points>
+				<point>723.000000,492.000000</point>
+				<point>690.000000,519.000000</point>
+				<point>662.000000,484.000000</point>
+				<point>696.000000,458.000000</point>
+				<point>723.000000,492.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

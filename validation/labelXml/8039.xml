@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>8039.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other-airplane</name>
+			</possibleresult>
+			<points>
+				<point>16.999990,813.000061</point>
+				<point>4.892792,787.574890</point>
+				<point>46.892792,767.574890</point>
+				<point>58.999992,793.000061</point>
+				<point>16.999990,813.000061</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Intersection</name>
+			</possibleresult>
+			<points>
+				<point>242.000000,234.000000</point>
+				<point>186.000000,261.000000</point>
+				<point>158.000000,206.000000</point>
+				<point>215.000000,179.000000</point>
+				<point>242.000000,234.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

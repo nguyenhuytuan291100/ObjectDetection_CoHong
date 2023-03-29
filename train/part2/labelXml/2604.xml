@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>2604.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>587.000000,643.000000</point>
+				<point>582.000000,650.000000</point>
+				<point>564.000000,635.000000</point>
+				<point>569.000000,629.000000</point>
+				<point>587.000000,643.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>477.000000,205.000000</point>
+				<point>456.000000,213.000000</point>
+				<point>453.000000,205.000000</point>
+				<point>474.000000,197.000000</point>
+				<point>477.000000,205.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>410.000000,25.000000</point>
+				<point>394.000000,35.000000</point>
+				<point>388.000000,26.000000</point>
+				<point>405.000000,16.000000</point>
+				<point>410.000000,25.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Van</name>
+			</possibleresult>
+			<points>
+				<point>347.000000,29.000000</point>
+				<point>340.000000,36.000000</point>
+				<point>324.000000,22.000000</point>
+				<point>332.000000,14.000000</point>
+				<point>347.000000,29.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

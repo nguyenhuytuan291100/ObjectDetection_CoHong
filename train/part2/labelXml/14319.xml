@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>14319.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A220</name>
+			</possibleresult>
+			<points>
+				<point>221.916962,604.090576</point>
+				<point>187.999969,573.000000</point>
+				<point>221.082977,536.909424</point>
+				<point>254.999969,568.000000</point>
+				<point>221.916962,604.090576</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A220</name>
+			</possibleresult>
+			<points>
+				<point>678.000000,472.000000</point>
+				<point>645.000000,511.000000</point>
+				<point>610.000000,481.000000</point>
+				<point>642.000000,442.000000</point>
+				<point>678.000000,472.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

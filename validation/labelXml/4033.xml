@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>4033.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>168.999969,755.999939</point>
+				<point>0.000000,755.999939</point>
+				<point>0.000000,610.999939</point>
+				<point>168.999969,610.999939</point>
+				<point>168.999969,755.999939</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>127.318718,176.022400</point>
+				<point>-0.681263,167.022400</point>
+				<point>5.999992,72.000000</point>
+				<point>133.999969,81.000000</point>
+				<point>127.318718,176.022400</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>361.000000,61.000000</point>
+				<point>357.000000,148.000000</point>
+				<point>242.000000,143.000000</point>
+				<point>246.000000,56.000000</point>
+				<point>361.000000,61.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dump Truck</name>
+			</possibleresult>
+			<points>
+				<point>262.000000,383.000000</point>
+				<point>240.000000,383.000000</point>
+				<point>241.000000,376.000000</point>
+				<point>262.000000,376.000000</point>
+				<point>262.000000,383.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>133.000000,365.000000</point>
+				<point>116.000000,365.000000</point>
+				<point>116.000000,359.000000</point>
+				<point>132.000000,358.000000</point>
+				<point>133.000000,365.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

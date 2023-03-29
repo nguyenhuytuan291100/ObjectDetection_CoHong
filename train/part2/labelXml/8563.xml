@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>8563.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>62.522251,417.293732</point>
+				<point>-1.477754,381.293732</point>
+				<point>14.999996,351.999969</point>
+				<point>79.000000,387.999969</point>
+				<point>62.522251,417.293732</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other-ship</name>
+			</possibleresult>
+			<points>
+				<point>9.000000,119.999985</point>
+				<point>-8.000000,86.999985</point>
+				<point>5.123369,80.239456</point>
+				<point>22.123369,113.239456</point>
+				<point>9.000000,119.999985</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other-ship</name>
+			</possibleresult>
+			<points>
+				<point>59.000000,175.000000</point>
+				<point>41.000000,184.000000</point>
+				<point>17.000000,141.000000</point>
+				<point>34.000000,131.000000</point>
+				<point>59.000000,175.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

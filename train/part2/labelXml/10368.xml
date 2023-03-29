@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>10368.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Bridge</name>
+			</possibleresult>
+			<points>
+				<point>633.000000,649.000000</point>
+				<point>684.000000,650.000000</point>
+				<point>699.000000,217.000000</point>
+				<point>649.000000,215.000000</point>
+				<point>633.000000,649.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Bridge</name>
+			</possibleresult>
+			<points>
+				<point>1627.000000,679.000000</point>
+				<point>1673.000000,679.000000</point>
+				<point>1681.000000,232.000000</point>
+				<point>1636.000000,231.000000</point>
+				<point>1627.000000,679.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

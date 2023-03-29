@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>14193.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>24.000000,451.000000</point>
+				<point>-15.024078,424.034851</point>
+				<point>146.000000,191.000000</point>
+				<point>185.024078,217.965149</point>
+				<point>24.000000,451.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>373.000000,336.000000</point>
+				<point>357.000000,341.000000</point>
+				<point>318.000000,210.000000</point>
+				<point>333.000000,205.000000</point>
+				<point>373.000000,336.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>502.000000,135.000000</point>
+				<point>487.000000,140.000000</point>
+				<point>447.000000,9.000000</point>
+				<point>462.000000,4.000000</point>
+				<point>502.000000,135.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>555.000000,455.000000</point>
+				<point>538.000000,460.000000</point>
+				<point>502.000000,333.000000</point>
+				<point>520.000000,328.000000</point>
+				<point>555.000000,455.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>358.000000,619.000000</point>
+				<point>278.000000,733.000000</point>
+				<point>264.000000,723.000000</point>
+				<point>344.000000,609.000000</point>
+				<point>358.000000,619.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

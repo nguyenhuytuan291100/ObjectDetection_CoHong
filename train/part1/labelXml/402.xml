@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>402.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dump Truck</name>
+			</possibleresult>
+			<points>
+				<point>0.000000,341.000000</point>
+				<point>0.000000,336.000000</point>
+				<point>3.000000,335.000000</point>
+				<point>4.000000,341.000000</point>
+				<point>0.000000,341.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Football Field</name>
+			</possibleresult>
+			<points>
+				<point>616.000000,397.000000</point>
+				<point>372.000000,446.000000</point>
+				<point>298.000000,75.000000</point>
+				<point>541.000000,26.000000</point>
+				<point>616.000000,397.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Football Field</name>
+			</possibleresult>
+			<points>
+				<point>929.000000,367.000000</point>
+				<point>714.000000,406.000000</point>
+				<point>650.000000,53.000000</point>
+				<point>864.000000,13.000000</point>
+				<point>929.000000,367.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

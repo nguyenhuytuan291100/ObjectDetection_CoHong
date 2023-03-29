@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>5050.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>524.000061,819.000000</point>
+				<point>303.553284,693.746216</point>
+				<point>324.999939,656.000000</point>
+				<point>545.446716,781.253784</point>
+				<point>524.000061,819.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Intersection</name>
+			</possibleresult>
+			<points>
+				<point>166.000000,135.000000</point>
+				<point>132.000000,165.000000</point>
+				<point>105.000000,135.000000</point>
+				<point>138.000000,104.000000</point>
+				<point>166.000000,135.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

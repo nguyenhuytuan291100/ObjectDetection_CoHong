@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>5766.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Football Field</name>
+			</possibleresult>
+			<points>
+				<point>246.406281,461.224884</point>
+				<point>94.000031,74.000000</point>
+				<point>376.593719,-37.224884</point>
+				<point>529.000000,350.000000</point>
+				<point>246.406281,461.224884</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Excavator</name>
+			</possibleresult>
+			<points>
+				<point>565.000000,464.000000</point>
+				<point>561.000000,471.000000</point>
+				<point>540.000000,458.000000</point>
+				<point>544.000000,452.000000</point>
+				<point>565.000000,464.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other-vehicle</name>
+			</possibleresult>
+			<points>
+				<point>544.000000,430.000000</point>
+				<point>543.000000,438.000000</point>
+				<point>512.000000,435.000000</point>
+				<point>512.000000,427.000000</point>
+				<point>544.000000,430.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>440.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Intersection</name>
+			</possibleresult>
+			<points>
+				<point>358.000000,129.000000</point>
+				<point>301.000000,153.000000</point>
+				<point>282.000000,105.000000</point>
+				<point>338.000000,82.000000</point>
+				<point>358.000000,129.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Intersection</name>
+			</possibleresult>
+			<points>
+				<point>429.000000,293.000000</point>
+				<point>385.000000,311.000000</point>
+				<point>369.000000,272.000000</point>
+				<point>414.000000,254.000000</point>
+				<point>429.000000,293.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

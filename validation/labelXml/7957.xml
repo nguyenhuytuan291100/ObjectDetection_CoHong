@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>7957.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>600.000000,362.322418</point>
+				<point>577.951233,423.134369</point>
+				<point>549.999939,412.999969</point>
+				<point>600.000000,275.096527</point>
+				<point>600.000000,362.322418</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Warship</name>
+			</possibleresult>
+			<points>
+				<point>141.000000,585.000000</point>
+				<point>124.000000,587.000000</point>
+				<point>115.000000,504.000000</point>
+				<point>131.000000,502.000000</point>
+				<point>141.000000,585.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

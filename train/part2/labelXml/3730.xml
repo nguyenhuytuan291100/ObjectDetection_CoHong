@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>3730.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Van</name>
+			</possibleresult>
+			<points>
+				<point>20.000000,44.000000</point>
+				<point>10.000000,46.000000</point>
+				<point>6.000000,27.000000</point>
+				<point>15.000000,25.000000</point>
+				<point>20.000000,44.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>35.000000,44.000000</point>
+				<point>22.000000,44.000000</point>
+				<point>22.000000,27.000000</point>
+				<point>34.000000,27.000000</point>
+				<point>35.000000,44.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Basketball Court</name>
+			</possibleresult>
+			<points>
+				<point>677.000000,410.000000</point>
+				<point>597.000000,458.000000</point>
+				<point>568.000000,427.000000</point>
+				<point>647.000000,381.000000</point>
+				<point>677.000000,410.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Basketball Court</name>
+			</possibleresult>
+			<points>
+				<point>712.000000,443.000000</point>
+				<point>632.000000,491.000000</point>
+				<point>600.000000,461.000000</point>
+				<point>682.000000,412.000000</point>
+				<point>712.000000,443.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Basketball Court</name>
+			</possibleresult>
+			<points>
+				<point>751.000000,476.000000</point>
+				<point>671.000000,522.000000</point>
+				<point>639.000000,492.000000</point>
+				<point>719.000000,445.000000</point>
+				<point>751.000000,476.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

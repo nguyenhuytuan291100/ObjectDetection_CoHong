@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>1451.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>580.000000,258.000000</point>
+				<point>855.000000,354.000000</point>
+				<point>871.000000,309.000000</point>
+				<point>594.000000,215.000000</point>
+				<point>580.000000,258.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Fishing Boat</name>
+			</possibleresult>
+			<points>
+				<point>3.000000,52.000000</point>
+				<point>65.000000,74.000000</point>
+				<point>69.000000,59.000000</point>
+				<point>8.000000,37.000000</point>
+				<point>3.000000,52.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Intersection</name>
+			</possibleresult>
+			<points>
+				<point>188.000000,1458.000000</point>
+				<point>245.000000,1478.000000</point>
+				<point>263.000000,1425.000000</point>
+				<point>206.000000,1406.000000</point>
+				<point>188.000000,1458.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

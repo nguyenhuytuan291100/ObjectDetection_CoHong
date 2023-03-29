@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>2352.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>258.000000,569.000000</point>
+				<point>257.000000,576.000000</point>
+				<point>244.000000,575.000000</point>
+				<point>245.000000,568.000000</point>
+				<point>258.000000,569.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Van</name>
+			</possibleresult>
+			<points>
+				<point>124.000000,182.000000</point>
+				<point>105.000000,183.000000</point>
+				<point>104.000000,175.000000</point>
+				<point>124.000000,174.000000</point>
+				<point>124.000000,182.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dump Truck</name>
+			</possibleresult>
+			<points>
+				<point>742.000000,38.000000</point>
+				<point>730.000000,39.000000</point>
+				<point>727.000000,17.000000</point>
+				<point>739.000000,15.000000</point>
+				<point>742.000000,38.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

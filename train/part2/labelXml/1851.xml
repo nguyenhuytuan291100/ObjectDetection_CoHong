@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>1851.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Fishing Boat</name>
+			</possibleresult>
+			<points>
+				<point>97.000000,726.000000</point>
+				<point>45.000000,736.000000</point>
+				<point>42.000000,725.000000</point>
+				<point>95.000000,713.000000</point>
+				<point>97.000000,726.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Fishing Boat</name>
+			</possibleresult>
+			<points>
+				<point>102.000000,734.000000</point>
+				<point>49.000000,746.000000</point>
+				<point>45.000000,738.000000</point>
+				<point>98.000000,725.000000</point>
+				<point>102.000000,734.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Fishing Boat</name>
+			</possibleresult>
+			<points>
+				<point>109.000000,746.000000</point>
+				<point>51.000000,758.000000</point>
+				<point>49.000000,746.000000</point>
+				<point>106.000000,733.000000</point>
+				<point>109.000000,746.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Fishing Boat</name>
+			</possibleresult>
+			<points>
+				<point>106.000000,761.000000</point>
+				<point>53.000000,773.000000</point>
+				<point>51.000000,760.000000</point>
+				<point>103.000000,748.000000</point>
+				<point>106.000000,761.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Fishing Boat</name>
+			</possibleresult>
+			<points>
+				<point>159.000000,714.000000</point>
+				<point>106.000000,724.000000</point>
+				<point>105.000000,712.000000</point>
+				<point>158.000000,701.000000</point>
+				<point>159.000000,714.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>243.000000,709.000000</point>
+				<point>165.000000,728.000000</point>
+				<point>159.000000,702.000000</point>
+				<point>238.000000,684.000000</point>
+				<point>243.000000,709.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

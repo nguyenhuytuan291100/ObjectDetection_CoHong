@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>8747.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tugboat</name>
+			</possibleresult>
+			<points>
+				<point>202.000000,207.000000</point>
+				<point>155.000000,189.000000</point>
+				<point>151.000000,202.000000</point>
+				<point>198.000000,220.000000</point>
+				<point>202.000000,207.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>252.000000,245.000000</point>
+				<point>23.000000,354.000000</point>
+				<point>42.000000,395.000000</point>
+				<point>273.000000,285.000000</point>
+				<point>252.000000,245.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>94.000000,484.000000</point>
+				<point>-16.000000,527.000000</point>
+				<point>0.000000,568.000000</point>
+				<point>110.000000,525.000000</point>
+				<point>94.000000,484.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

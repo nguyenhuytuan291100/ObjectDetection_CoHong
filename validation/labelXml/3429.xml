@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>3429.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other-airplane</name>
+			</possibleresult>
+			<points>
+				<point>205.000000,621.000000</point>
+				<point>128.000000,627.000000</point>
+				<point>124.000000,563.000000</point>
+				<point>200.000000,558.000000</point>
+				<point>205.000000,621.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>ARJ21</name>
+			</possibleresult>
+			<points>
+				<point>777.000000,648.000000</point>
+				<point>728.000000,652.000000</point>
+				<point>725.000000,615.000000</point>
+				<point>774.000000,610.000000</point>
+				<point>777.000000,648.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

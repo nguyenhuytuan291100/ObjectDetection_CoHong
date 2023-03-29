@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>2910.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>800.000000,170.081100</point>
+				<point>717.000000,197.000015</point>
+				<point>711.241943,179.245895</point>
+				<point>800.000000,150.459503</point>
+				<point>800.000000,170.081100</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>797.000000,152.000000</point>
+				<point>673.000000,192.000000</point>
+				<point>665.000000,165.000000</point>
+				<point>789.000000,125.000000</point>
+				<point>797.000000,152.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Bridge</name>
+			</possibleresult>
+			<points>
+				<point>123.000000,173.000000</point>
+				<point>114.000000,211.000000</point>
+				<point>76.000000,201.000000</point>
+				<point>86.000000,164.000000</point>
+				<point>123.000000,173.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

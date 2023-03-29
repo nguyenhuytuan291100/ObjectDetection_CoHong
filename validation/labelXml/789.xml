@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>789.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Boeing777</name>
+			</possibleresult>
+			<points>
+				<point>622.000000,107.000000</point>
+				<point>595.000000,176.000000</point>
+				<point>524.000000,148.000000</point>
+				<point>552.000000,79.000000</point>
+				<point>622.000000,107.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Boeing777</name>
+			</possibleresult>
+			<points>
+				<point>679.000000,493.000000</point>
+				<point>646.000000,566.000000</point>
+				<point>576.000000,534.000000</point>
+				<point>608.000000,461.000000</point>
+				<point>679.000000,493.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

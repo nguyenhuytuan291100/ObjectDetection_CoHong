@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>4044.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>515.000000,435.000000</point>
+				<point>266.000000,688.000000</point>
+				<point>305.000000,726.000000</point>
+				<point>554.000000,474.000000</point>
+				<point>515.000000,435.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other-ship</name>
+			</possibleresult>
+			<points>
+				<point>426.000000,830.000000</point>
+				<point>458.000000,867.000000</point>
+				<point>468.000000,859.000000</point>
+				<point>436.000000,822.000000</point>
+				<point>426.000000,830.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other-ship</name>
+			</possibleresult>
+			<points>
+				<point>447.000000,448.000000</point>
+				<point>471.000000,405.000000</point>
+				<point>455.000000,396.000000</point>
+				<point>431.000000,440.000000</point>
+				<point>447.000000,448.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

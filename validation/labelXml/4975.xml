@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>4975.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Van</name>
+			</possibleresult>
+			<points>
+				<point>102.000000,72.000000</point>
+				<point>87.000000,84.000000</point>
+				<point>81.000000,77.000000</point>
+				<point>96.000000,65.000000</point>
+				<point>102.000000,72.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>106.000000,209.000000</point>
+				<point>87.000000,217.000000</point>
+				<point>83.000000,208.000000</point>
+				<point>102.000000,200.000000</point>
+				<point>106.000000,209.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Cargo Truck</name>
+			</possibleresult>
+			<points>
+				<point>30.000000,373.000000</point>
+				<point>22.000000,380.000000</point>
+				<point>9.000000,365.000000</point>
+				<point>16.000000,358.000000</point>
+				<point>30.000000,373.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

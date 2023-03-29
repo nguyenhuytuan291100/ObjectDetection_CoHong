@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>5756.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>607.502197,585.854797</point>
+				<point>558.593384,600.000000</point>
+				<point>435.491913,600.000000</point>
+				<point>598.000061,553.000061</point>
+				<point>607.502197,585.854797</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>40.663940,614.561035</point>
+				<point>3.000031,592.000000</point>
+				<point>124.000153,390.000122</point>
+				<point>161.664062,412.561157</point>
+				<point>40.663940,614.561035</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Bridge</name>
+			</possibleresult>
+			<points>
+				<point>139.000000,51.000000</point>
+				<point>130.000000,92.000000</point>
+				<point>121.000000,89.000000</point>
+				<point>129.000000,48.000000</point>
+				<point>139.000000,51.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

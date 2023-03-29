@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>1370.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Passenger Ship</name>
+			</possibleresult>
+			<points>
+				<point>158.000031,802.000000</point>
+				<point>142.516235,791.256104</point>
+				<point>176.516266,742.256104</point>
+				<point>192.000061,753.000000</point>
+				<point>158.000031,802.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Passenger Ship</name>
+			</possibleresult>
+			<points>
+				<point>66.000000,672.000000</point>
+				<point>43.000000,711.000000</point>
+				<point>34.000000,706.000000</point>
+				<point>56.000000,667.000000</point>
+				<point>66.000000,672.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Basketball Court</name>
+			</possibleresult>
+			<points>
+				<point>520.000000,164.000000</point>
+				<point>500.000000,168.000000</point>
+				<point>496.000000,132.000000</point>
+				<point>516.000000,130.000000</point>
+				<point>520.000000,164.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Basketball Court</name>
+			</possibleresult>
+			<points>
+				<point>411.000000,281.000000</point>
+				<point>380.000000,300.000000</point>
+				<point>371.000000,284.000000</point>
+				<point>401.000000,265.000000</point>
+				<point>411.000000,281.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

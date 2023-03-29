@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>6140.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>146.999985,142.000015</point>
+				<point>95.999985,43.000015</point>
+				<point>209.320755,-15.377350</point>
+				<point>260.320740,83.622650</point>
+				<point>146.999985,142.000015</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>171.000000,310.000000</point>
+				<point>56.000000,374.000000</point>
+				<point>1.000000,275.000000</point>
+				<point>116.000000,211.000000</point>
+				<point>171.000000,310.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>383.000000,288.000000</point>
+				<point>298.000000,318.000000</point>
+				<point>275.000000,253.000000</point>
+				<point>360.000000,223.000000</point>
+				<point>383.000000,288.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>498.000000,752.000000</point>
+				<point>473.000000,754.000000</point>
+				<point>472.000000,743.000000</point>
+				<point>497.000000,741.000000</point>
+				<point>498.000000,752.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other-vehicle</name>
+			</possibleresult>
+			<points>
+				<point>159.000000,783.000000</point>
+				<point>132.000000,785.000000</point>
+				<point>131.000000,777.000000</point>
+				<point>158.000000,775.000000</point>
+				<point>159.000000,783.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

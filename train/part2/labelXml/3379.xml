@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>3379.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A321</name>
+			</possibleresult>
+			<points>
+				<point>0.999996,566.000000</point>
+				<point>-0.326481,508.961060</point>
+				<point>42.673512,507.961060</point>
+				<point>43.999989,565.000000</point>
+				<point>0.999996,566.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Roundabout</name>
+			</possibleresult>
+			<points>
+				<point>643.000000,416.000000</point>
+				<point>584.000000,420.000000</point>
+				<point>581.000000,360.000000</point>
+				<point>639.000000,356.000000</point>
+				<point>643.000000,416.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

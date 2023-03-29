@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>15365.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>323.000000,781.000000</point>
+				<point>428.000000,859.000000</point>
+				<point>442.000000,840.000000</point>
+				<point>336.000000,765.000000</point>
+				<point>323.000000,781.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>282.000000,911.000000</point>
+				<point>369.000000,986.000000</point>
+				<point>378.000000,975.000000</point>
+				<point>292.000000,900.000000</point>
+				<point>282.000000,911.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>290.000000,897.000000</point>
+				<point>376.000000,974.000000</point>
+				<point>386.000000,963.000000</point>
+				<point>298.000000,888.000000</point>
+				<point>290.000000,897.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>571.000000,820.000000</point>
+				<point>611.000000,852.000000</point>
+				<point>619.000000,843.000000</point>
+				<point>578.000000,811.000000</point>
+				<point>571.000000,820.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Intersection</name>
+			</possibleresult>
+			<points>
+				<point>689.000000,702.000000</point>
+				<point>657.000000,677.000000</point>
+				<point>677.000000,650.000000</point>
+				<point>709.000000,674.000000</point>
+				<point>689.000000,702.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

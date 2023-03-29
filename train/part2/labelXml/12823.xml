@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>12823.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>249.000000,402.000000</point>
+				<point>244.000000,422.000000</point>
+				<point>102.000000,392.000000</point>
+				<point>107.000000,372.000000</point>
+				<point>249.000000,402.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Warship</name>
+			</possibleresult>
+			<points>
+				<point>526.000000,480.000000</point>
+				<point>522.000000,499.000000</point>
+				<point>379.000000,474.000000</point>
+				<point>382.000000,454.000000</point>
+				<point>526.000000,480.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Fishing Boat</name>
+			</possibleresult>
+			<points>
+				<point>576.000000,423.000000</point>
+				<point>570.000000,463.000000</point>
+				<point>559.000000,461.000000</point>
+				<point>565.000000,421.000000</point>
+				<point>576.000000,423.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>160.000000,726.000000</point>
+				<point>156.000000,746.000000</point>
+				<point>42.000000,726.000000</point>
+				<point>46.000000,706.000000</point>
+				<point>160.000000,726.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>122.000000,742.000000</point>
+				<point>118.000000,763.000000</point>
+				<point>38.000000,747.000000</point>
+				<point>42.000000,726.000000</point>
+				<point>122.000000,742.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

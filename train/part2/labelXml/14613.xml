@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>14613.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Football Field</name>
+			</possibleresult>
+			<points>
+				<point>663.000000,743.000000</point>
+				<point>733.000000,761.000000</point>
+				<point>766.000000,635.000000</point>
+				<point>696.000000,617.000000</point>
+				<point>663.000000,743.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Roundabout</name>
+			</possibleresult>
+			<points>
+				<point>814.000000,575.000000</point>
+				<point>881.000000,556.000000</point>
+				<point>859.000000,479.000000</point>
+				<point>792.000000,497.000000</point>
+				<point>814.000000,575.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

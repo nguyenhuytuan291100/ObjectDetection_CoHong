@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>6639.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>172.000000,440.000061</point>
+				<point>125.000000,595.000061</point>
+				<point>0.000000,557.096863</point>
+				<point>0.000000,387.845215</point>
+				<point>172.000000,440.000061</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>226.000000,100.000000</point>
+				<point>185.000000,206.000000</point>
+				<point>49.000000,154.000000</point>
+				<point>89.000000,48.000000</point>
+				<point>226.000000,100.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Football Field</name>
+			</possibleresult>
+			<points>
+				<point>600.000000,222.000000</point>
+				<point>347.000000,182.999985</point>
+				<point>375.209503,0.000000</point>
+				<point>600.000000,0.000000</point>
+				<point>600.000000,222.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

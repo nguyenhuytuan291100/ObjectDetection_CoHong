@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>13383.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tennis Court</name>
+			</possibleresult>
+			<points>
+				<point>177.342438,600.000000</point>
+				<point>122.164383,600.000000</point>
+				<point>86.000015,545.000061</point>
+				<point>124.522751,519.670105</point>
+				<point>177.342438,600.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tennis Court</name>
+			</possibleresult>
+			<points>
+				<point>195.672577,601.911499</point>
+				<point>143.000000,524.000000</point>
+				<point>181.327423,498.088501</point>
+				<point>234.000000,576.000000</point>
+				<point>195.672577,601.911499</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tennis Court</name>
+			</possibleresult>
+			<points>
+				<point>293.000000,554.000000</point>
+				<point>246.000000,571.000000</point>
+				<point>200.000000,500.000000</point>
+				<point>243.000000,484.000000</point>
+				<point>293.000000,554.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tennis Court</name>
+			</possibleresult>
+			<points>
+				<point>348.000000,529.000000</point>
+				<point>306.000000,550.000000</point>
+				<point>257.000000,477.000000</point>
+				<point>300.000000,459.000000</point>
+				<point>348.000000,529.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

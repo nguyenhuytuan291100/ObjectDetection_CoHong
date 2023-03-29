@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>1311.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>6000</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>5673.000000,5442.000000</point>
+				<point>5513.000000,5497.000000</point>
+				<point>5523.000000,5522.000000</point>
+				<point>5682.000000,5468.000000</point>
+				<point>5673.000000,5442.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>4803.000000,4664.000000</point>
+				<point>4589.000000,4727.000000</point>
+				<point>4600.000000,4762.000000</point>
+				<point>4813.000000,4701.000000</point>
+				<point>4803.000000,4664.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>4250.000000,5493.000000</point>
+				<point>4163.000000,5576.000000</point>
+				<point>4177.000000,5590.000000</point>
+				<point>4264.000000,5506.000000</point>
+				<point>4250.000000,5493.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>4211.000000,5561.000000</point>
+				<point>4171.000000,5612.000000</point>
+				<point>4182.000000,5620.000000</point>
+				<point>4222.000000,5570.000000</point>
+				<point>4211.000000,5561.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Bridge</name>
+			</possibleresult>
+			<points>
+				<point>658.000000,-41.000000</point>
+				<point>-21.000000,326.000000</point>
+				<point>-4.000000,368.000000</point>
+				<point>675.000000,0.000000</point>
+				<point>658.000000,-41.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

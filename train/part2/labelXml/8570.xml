@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>8570.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>191.000000,847.000000</point>
+				<point>0.000000,847.000000</point>
+				<point>0.000000,699.000000</point>
+				<point>191.000000,699.000000</point>
+				<point>191.000000,847.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dump Truck</name>
+			</possibleresult>
+			<points>
+				<point>228.000000,153.000000</point>
+				<point>227.000000,161.000000</point>
+				<point>200.000000,155.000000</point>
+				<point>202.000000,148.000000</point>
+				<point>228.000000,153.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>210.000000,185.000000</point>
+				<point>201.000000,185.000000</point>
+				<point>201.000000,168.000000</point>
+				<point>210.000000,168.000000</point>
+				<point>210.000000,185.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Van</name>
+			</possibleresult>
+			<points>
+				<point>1000.000000,73.842117</point>
+				<point>983.632568,72.980675</point>
+				<point>984.000000,66.000008</point>
+				<point>1000.000000,66.842110</point>
+				<point>1000.000000,73.842117</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Football Field</name>
+			</possibleresult>
+			<points>
+				<point>943.000000,883.000000</point>
+				<point>525.000000,879.000000</point>
+				<point>524.000000,677.000000</point>
+				<point>937.000000,680.000000</point>
+				<point>943.000000,883.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

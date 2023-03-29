@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>700.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tennis Court</name>
+			</possibleresult>
+			<points>
+				<point>103.000000,767.000000</point>
+				<point>86.000000,800.000000</point>
+				<point>30.000000,800.000000</point>
+				<point>59.000000,744.000000</point>
+				<point>103.000000,767.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tennis Court</name>
+			</possibleresult>
+			<points>
+				<point>41.399982,747.199951</point>
+				<point>14.999958,800.000000</point>
+				<point>-0.000000,800.000000</point>
+				<point>0.000000,726.500000</point>
+				<point>41.399982,747.199951</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Football Field</name>
+			</possibleresult>
+			<points>
+				<point>575.995850,785.998901</point>
+				<point>134.000015,672.000000</point>
+				<point>183.308472,480.821655</point>
+				<point>625.304321,594.820557</point>
+				<point>575.995850,785.998901</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

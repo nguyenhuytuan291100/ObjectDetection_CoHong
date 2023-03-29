@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>2670.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>725.000000,787.000000</point>
+				<point>809.000000,794.000000</point>
+				<point>810.000000,778.000000</point>
+				<point>726.000000,772.000000</point>
+				<point>725.000000,787.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>832.000000,795.000000</point>
+				<point>889.000000,798.000000</point>
+				<point>890.000000,786.000000</point>
+				<point>833.000000,783.000000</point>
+				<point>832.000000,795.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>961.000000,816.000000</point>
+				<point>891.000000,811.000000</point>
+				<point>890.000000,821.000000</point>
+				<point>960.000000,826.000000</point>
+				<point>961.000000,816.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>757.000000,809.000000</point>
+				<point>821.000000,813.000000</point>
+				<point>821.000000,805.000000</point>
+				<point>758.000000,801.000000</point>
+				<point>757.000000,809.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Football Field</name>
+			</possibleresult>
+			<points>
+				<point>635.000000,167.000000</point>
+				<point>822.000000,167.000000</point>
+				<point>822.000000,-8.000000</point>
+				<point>635.000000,-8.000000</point>
+				<point>635.000000,167.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

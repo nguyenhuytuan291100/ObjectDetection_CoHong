@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>1033.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Cargo Truck</name>
+			</possibleresult>
+			<points>
+				<point>765.000000,897.000000</point>
+				<point>723.000000,919.000000</point>
+				<point>717.000000,908.000000</point>
+				<point>760.000000,886.000000</point>
+				<point>765.000000,897.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Trailer</name>
+			</possibleresult>
+			<points>
+				<point>827.000000,959.000000</point>
+				<point>817.000000,968.000000</point>
+				<point>787.000000,931.000000</point>
+				<point>798.000000,922.000000</point>
+				<point>827.000000,959.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Trailer</name>
+			</possibleresult>
+			<points>
+				<point>842.000000,955.000000</point>
+				<point>832.000000,962.000000</point>
+				<point>802.000000,923.000000</point>
+				<point>813.000000,915.000000</point>
+				<point>842.000000,955.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

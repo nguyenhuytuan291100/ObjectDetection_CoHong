@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>3846.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other-ship</name>
+			</possibleresult>
+			<points>
+				<point>16.000000,1673.000000</point>
+				<point>38.000000,1715.000000</point>
+				<point>55.000000,1706.000000</point>
+				<point>33.000000,1664.000000</point>
+				<point>16.000000,1673.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Fishing Boat</name>
+			</possibleresult>
+			<points>
+				<point>340.000000,1805.000000</point>
+				<point>418.000000,1871.000000</point>
+				<point>440.000000,1845.000000</point>
+				<point>361.000000,1779.000000</point>
+				<point>340.000000,1805.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>5230.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>406.000000,120.000000</point>
+				<point>398.000000,120.000000</point>
+				<point>397.000000,104.000000</point>
+				<point>405.000000,103.000000</point>
+				<point>406.000000,120.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>438.000000,291.000000</point>
+				<point>413.000000,294.000000</point>
+				<point>412.000000,286.000000</point>
+				<point>437.000000,283.000000</point>
+				<point>438.000000,291.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Van</name>
+			</possibleresult>
+			<points>
+				<point>457.000000,351.000000</point>
+				<point>438.000000,352.000000</point>
+				<point>437.000000,346.000000</point>
+				<point>457.000000,344.000000</point>
+				<point>457.000000,351.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>341.000000,526.000000</point>
+				<point>327.000000,525.000000</point>
+				<point>328.000000,518.000000</point>
+				<point>341.000000,518.000000</point>
+				<point>341.000000,526.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dump Truck</name>
+			</possibleresult>
+			<points>
+				<point>319.000000,529.000000</point>
+				<point>293.000000,532.000000</point>
+				<point>292.000000,523.000000</point>
+				<point>318.000000,520.000000</point>
+				<point>319.000000,529.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

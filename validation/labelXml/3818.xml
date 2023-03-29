@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>3818.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Football Field</name>
+			</possibleresult>
+			<points>
+				<point>529.000000,304.000000</point>
+				<point>487.000000,306.000000</point>
+				<point>485.000000,280.000000</point>
+				<point>528.000000,278.000000</point>
+				<point>529.000000,304.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Football Field</name>
+			</possibleresult>
+			<points>
+				<point>540.000000,213.000000</point>
+				<point>504.000000,213.000000</point>
+				<point>504.000000,192.000000</point>
+				<point>540.000000,192.000000</point>
+				<point>540.000000,213.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Intersection</name>
+			</possibleresult>
+			<points>
+				<point>240.000000,453.000000</point>
+				<point>163.000000,453.000000</point>
+				<point>163.000000,394.000000</point>
+				<point>240.000000,394.000000</point>
+				<point>240.000000,453.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

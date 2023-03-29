@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>5297.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Passenger Ship</name>
+			</possibleresult>
+			<points>
+				<point>903.000000,85.000000</point>
+				<point>833.000000,90.000000</point>
+				<point>835.000000,112.000000</point>
+				<point>904.000000,107.000000</point>
+				<point>903.000000,85.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Passenger Ship</name>
+			</possibleresult>
+			<points>
+				<point>905.000000,183.000000</point>
+				<point>845.000000,183.000000</point>
+				<point>845.000000,206.000000</point>
+				<point>905.000000,206.000000</point>
+				<point>905.000000,183.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Passenger Ship</name>
+			</possibleresult>
+			<points>
+				<point>918.000000,240.000000</point>
+				<point>849.000000,259.000000</point>
+				<point>855.000000,284.000000</point>
+				<point>925.000000,265.000000</point>
+				<point>918.000000,240.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Passenger Ship</name>
+			</possibleresult>
+			<points>
+				<point>768.000000,296.000000</point>
+				<point>687.000000,310.000000</point>
+				<point>692.000000,340.000000</point>
+				<point>773.000000,326.000000</point>
+				<point>768.000000,296.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Passenger Ship</name>
+			</possibleresult>
+			<points>
+				<point>772.000000,285.000000</point>
+				<point>850.000000,312.000000</point>
+				<point>856.000000,294.000000</point>
+				<point>778.000000,268.000000</point>
+				<point>772.000000,285.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

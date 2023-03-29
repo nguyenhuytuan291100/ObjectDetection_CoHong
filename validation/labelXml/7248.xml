@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>7248.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>135.215378,12.123075</point>
+				<point>116.999992,44.000000</point>
+				<point>40.000015,0.000004</point>
+				<point>113.999992,-0.000004</point>
+				<point>135.215378,12.123075</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>86.292274,233.959579</point>
+				<point>0.000000,245.893631</point>
+				<point>0.000000,184.787262</point>
+				<point>77.999992,174.000015</point>
+				<point>86.292274,233.959579</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>368.000000,279.000000</point>
+				<point>266.000000,306.000000</point>
+				<point>250.000000,244.000000</point>
+				<point>351.000000,217.000000</point>
+				<point>368.000000,279.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>362.000000,680.000000</point>
+				<point>360.000000,724.000000</point>
+				<point>230.000000,717.000000</point>
+				<point>232.000000,674.000000</point>
+				<point>362.000000,680.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

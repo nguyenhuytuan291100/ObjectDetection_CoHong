@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>2603.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>56.999966,686.000061</point>
+				<point>41.280804,718.617371</point>
+				<point>-0.000004,698.722961</point>
+				<point>0.000000,658.530151</point>
+				<point>56.999966,686.000061</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>207.999969,801.000000</point>
+				<point>118.999969,760.000000</point>
+				<point>132.091614,731.581543</point>
+				<point>221.091614,772.581543</point>
+				<point>207.999969,801.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Roundabout</name>
+			</possibleresult>
+			<points>
+				<point>270.000000,648.000000</point>
+				<point>182.000000,648.000000</point>
+				<point>182.000000,568.000000</point>
+				<point>270.000000,568.000000</point>
+				<point>270.000000,648.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

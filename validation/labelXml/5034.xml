@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>5034.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>428.000000,775.000000</point>
+				<point>423.000000,781.000000</point>
+				<point>408.000000,769.000000</point>
+				<point>413.000000,763.000000</point>
+				<point>428.000000,775.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Van</name>
+			</possibleresult>
+			<points>
+				<point>417.000000,783.000000</point>
+				<point>411.000000,789.000000</point>
+				<point>397.000000,776.000000</point>
+				<point>403.000000,770.000000</point>
+				<point>417.000000,783.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other-ship</name>
+			</possibleresult>
+			<points>
+				<point>598.000000,699.000122</point>
+				<point>581.000000,684.000122</point>
+				<point>587.099243,677.087646</point>
+				<point>604.099243,692.087646</point>
+				<point>598.000000,699.000122</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

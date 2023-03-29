@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>6192.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>556.007935,1007.998291</point>
+				<point>537.000000,916.000000</point>
+				<point>658.000000,891.000000</point>
+				<point>677.007935,982.998291</point>
+				<point>556.007935,1007.998291</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dump Truck</name>
+			</possibleresult>
+			<points>
+				<point>960.000000,547.000000</point>
+				<point>956.000000,565.000000</point>
+				<point>946.000000,563.000000</point>
+				<point>951.000000,545.000000</point>
+				<point>960.000000,547.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dump Truck</name>
+			</possibleresult>
+			<points>
+				<point>954.000000,595.000000</point>
+				<point>951.000000,612.000000</point>
+				<point>941.000000,611.000000</point>
+				<point>944.000000,593.000000</point>
+				<point>954.000000,595.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

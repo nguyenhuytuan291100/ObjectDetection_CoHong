@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>1145.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>424.000000,586.000000</point>
+				<point>418.000000,592.000000</point>
+				<point>409.000000,585.000000</point>
+				<point>415.000000,579.000000</point>
+				<point>424.000000,586.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>427.000000,576.000000</point>
+				<point>423.000000,581.000000</point>
+				<point>409.000000,571.000000</point>
+				<point>413.000000,565.000000</point>
+				<point>427.000000,576.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Small Car</name>
+			</possibleresult>
+			<points>
+				<point>449.000000,564.000000</point>
+				<point>444.000000,569.000000</point>
+				<point>430.000000,555.000000</point>
+				<point>435.000000,550.000000</point>
+				<point>449.000000,564.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>10861.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other-airplane</name>
+			</possibleresult>
+			<points>
+				<point>575.600037,536.200012</point>
+				<point>554.000061,493.000061</point>
+				<point>586.400085,476.800110</point>
+				<point>608.000061,520.000061</point>
+				<point>575.600037,536.200012</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tennis Court</name>
+			</possibleresult>
+			<points>
+				<point>470.000000,171.000000</point>
+				<point>458.000000,177.000000</point>
+				<point>445.000000,148.000000</point>
+				<point>457.000000,143.000000</point>
+				<point>470.000000,171.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Basketball Court</name>
+			</possibleresult>
+			<points>
+				<point>564.000000,71.000000</point>
+				<point>545.000000,80.000000</point>
+				<point>530.000000,49.000000</point>
+				<point>549.000000,40.000000</point>
+				<point>564.000000,71.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>14604.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>600.000000,166.250046</point>
+				<point>554.000061,172.000031</point>
+				<point>552.507751,160.061554</point>
+				<point>600.000000,154.125031</point>
+				<point>600.000000,166.250046</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>436.000000,159.000000</point>
+				<point>319.000000,178.000000</point>
+				<point>316.000000,156.000000</point>
+				<point>432.000000,137.000000</point>
+				<point>436.000000,159.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>480.000000,184.000000</point>
+				<point>301.000000,215.000000</point>
+				<point>295.000000,182.000000</point>
+				<point>475.000000,151.000000</point>
+				<point>480.000000,184.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>491.000000,204.000000</point>
+				<point>346.000000,231.000000</point>
+				<point>342.000000,210.000000</point>
+				<point>487.000000,183.000000</point>
+				<point>491.000000,204.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Engineering Ship</name>
+			</possibleresult>
+			<points>
+				<point>120.000000,631.000000</point>
+				<point>53.000000,668.000000</point>
+				<point>38.000000,640.000000</point>
+				<point>105.000000,603.000000</point>
+				<point>120.000000,631.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Dry Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>100.000000,590.000000</point>
+				<point>47.000000,625.000000</point>
+				<point>39.000000,613.000000</point>
+				<point>93.000000,579.000000</point>
+				<point>100.000000,590.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Fishing Boat</name>
+			</possibleresult>
+			<points>
+				<point>99.000000,605.000000</point>
+				<point>70.000000,622.000000</point>
+				<point>64.000000,612.000000</point>
+				<point>93.000000,595.000000</point>
+				<point>99.000000,605.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

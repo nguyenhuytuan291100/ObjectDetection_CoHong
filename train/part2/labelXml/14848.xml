@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>14848.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>73.000023,770.000000</point>
+				<point>0.000000,770.532837</point>
+				<point>0.000000,666.525574</point>
+				<point>72.240883,665.998291</point>
+				<point>73.000023,770.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>508.000000,538.000000</point>
+				<point>314.000000,575.000000</point>
+				<point>287.000000,433.000000</point>
+				<point>481.000000,396.000000</point>
+				<point>508.000000,538.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Football Field</name>
+			</possibleresult>
+			<points>
+				<point>600.000000,235.000000</point>
+				<point>98.000000,282.000000</point>
+				<point>82.000000,111.000000</point>
+				<point>600.000000,63.000000</point>
+				<point>600.000000,235.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tennis Court</name>
+			</possibleresult>
+			<points>
+				<point>17.942209,470.306488</point>
+				<point>-5.000021,383.999969</point>
+				<point>45.057762,370.693451</point>
+				<point>67.999992,456.999969</point>
+				<point>17.942209,470.306488</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

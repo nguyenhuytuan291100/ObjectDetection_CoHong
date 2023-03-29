@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>5185.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>92.208481,813.996155</point>
+				<point>0.000000,815.693237</point>
+				<point>0.000000,695.656494</point>
+				<point>89.999954,694.000061</point>
+				<point>92.208481,813.996155</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Van</name>
+			</possibleresult>
+			<points>
+				<point>263.000000,722.000000</point>
+				<point>255.000000,723.000000</point>
+				<point>252.000000,708.000000</point>
+				<point>260.000000,706.000000</point>
+				<point>263.000000,722.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Cargo Truck</name>
+			</possibleresult>
+			<points>
+				<point>209.000000,652.000000</point>
+				<point>197.000000,655.000000</point>
+				<point>190.000000,626.000000</point>
+				<point>203.000000,623.000000</point>
+				<point>209.000000,652.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

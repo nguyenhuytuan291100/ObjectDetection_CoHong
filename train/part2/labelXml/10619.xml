@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>10619.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>4</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tennis Court</name>
+			</possibleresult>
+			<points>
+				<point>476.000000,576.000000</point>
+				<point>433.000000,588.000000</point>
+				<point>406.000000,511.000000</point>
+				<point>447.000000,500.000000</point>
+				<point>476.000000,576.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tennis Court</name>
+			</possibleresult>
+			<points>
+				<point>543.000000,556.000000</point>
+				<point>502.000000,567.000000</point>
+				<point>473.000000,492.000000</point>
+				<point>514.000000,480.000000</point>
+				<point>543.000000,556.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Baseball Field</name>
+			</possibleresult>
+			<points>
+				<point>255.000000,418.000000</point>
+				<point>90.000000,471.000000</point>
+				<point>41.000000,320.000000</point>
+				<point>206.000000,266.000000</point>
+				<point>255.000000,418.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tennis Court</name>
+			</possibleresult>
+			<points>
+				<point>315.026306,600.000000</point>
+				<point>268.131592,600.000000</point>
+				<point>251.000000,558.000000</point>
+				<point>291.205444,541.600464</point>
+				<point>315.026306,600.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Tennis Court</name>
+			</possibleresult>
+			<points>
+				<point>389.592102,600.000000</point>
+				<point>343.289459,600.000000</point>
+				<point>318.000000,538.000000</point>
+				<point>357.697815,521.807495</point>
+				<point>389.592102,600.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

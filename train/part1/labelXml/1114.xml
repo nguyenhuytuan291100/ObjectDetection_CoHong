@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>1114.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>FAIR1M</provider>
+		<author>Cyber</author>
+		<pluginname>FAIR1M</pluginname>
+		<pluginclass>object detection</pluginclass>
+		<time>2021-07-21</time>
+	</research>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>611.000000,1370.000000</point>
+				<point>726.000000,1409.000000</point>
+				<point>732.000000,1390.000000</point>
+				<point>617.000000,1352.000000</point>
+				<point>611.000000,1370.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Liquid Cargo Ship</name>
+			</possibleresult>
+			<points>
+				<point>984.000000,1486.000000</point>
+				<point>1073.000000,1518.000000</point>
+				<point>1082.000000,1495.000000</point>
+				<point>992.000000,1465.000000</point>
+				<point>984.000000,1486.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Basketball Court</name>
+			</possibleresult>
+			<points>
+				<point>518.000000,1451.000000</point>
+				<point>488.000000,1430.000000</point>
+				<point>478.000000,1446.000000</point>
+				<point>508.000000,1467.000000</point>
+				<point>518.000000,1451.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>
