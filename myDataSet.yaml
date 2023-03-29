@@ -1,0 +1,4 @@
+train: /home/cnm12345/H_Tua_k54/objectDetection/ObjectDetection_CoHong/train/part2
+val: /home/cnm12345/H_Tua_k54/objectDetection/ObjectDetection_CoHong/train/part1
+nc: 37
+names: ['LiquidCargoShip', 'PassengerShip', 'DryCargoShip', 'CargoTruck', 'SmallCar', 'DumpTruck', 'Van', 'Motorboat', 'Bridge', 'Intersection', 'Excavator', 'other-vehicle', 'Boeing737', 'A321', 'TennisCourt', 'BasketballCourt', 'Bus', 'A220', 'other-ship', 'other-airplane', 'Boeing787', 'FootballField', 'EngineeringShip', 'Warship', 'Tugboat', 'Tractor', 'Roundabout', 'ARJ21', 'FishingBoat', 'Boeing747', 'Trailer', 'TruckTractor', 'BaseballField', 'A330', 'A350', 'Boeing777', 'C919']
