@@ -22,9 +22,10 @@ def writeToValid(path,textValid):
                 f.write('\n')
                     
 
-def createImage(path, newPath, textTrain, textValid, newLabelPath, labelPath):
+def createImage(path, newPath, newLabelPath, labelPath):
    for fileName in glob.glob(os.path.join(path,'*.tif')):
         im = Image.open(fileName)
+        print(fileName)
         fileName = fileName.split('.')[0].split('/')[-1]
         # if int(fileName)>=15000:
         #     with open(textValid, 'w') as f:
@@ -43,6 +44,6 @@ def createImage(path, newPath, textTrain, textValid, newLabelPath, labelPath):
             # cv2.imwrite(newPath+fileName+'_ir.png',img_gray)
     
 
-createImage('/content/ObjectDetection_CoHong/images/','/content/drive/MyDrive/superYoloData/images/','/content/drive/MyDrive/superYoloData/train.txt','/content/drive/MyDrive/superYoloData/valid.txt','/content/drive/MyDrive/superYoloData/labels/','/content/ObjectDetection_CoHong/train/part1/labels/')
-writeToTrain('/content/ObjectDetection_CoHong/images/','/content/drive/MyDrive/superYoloData/train.txt')
-writeToValid('/content/ObjectDetection_CoHong/images/','/content/drive/MyDrive/superYoloData/valid.txt')
+createImage('/content/images/','/content/drive/MyDrive/superYoloData2/images/','/content/drive/MyDrive/superYoloData2/labels/','/content/ObjectDetection_CoHong/train/part1/labels/')
+writeToTrain('/content/images/','/content/drive/MyDrive/superYoloData2/train.txt')
+writeToValid('/content/images/','/content/drive/MyDrive/superYoloData2/valid.txt')
