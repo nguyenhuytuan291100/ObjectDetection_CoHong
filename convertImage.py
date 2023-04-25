@@ -1,6 +1,7 @@
 from PIL import Image
 import cv2
 import os, glob
+import shutil
 
 def writeToTrain(path,textTrain):
     with open(textTrain, 'w') as f:
@@ -21,7 +22,7 @@ def writeToValid(path,textValid):
                 f.write('\n')
                     
 
-def createImage(path, newPath, textTrain, textValid):
+def createImage(path, newPath, textTrain, textValid, newLabelPath, labelPath):
    for fileName in glob.glob(os.path.join(path,'*.tif')):
         im = Image.open(fileName)
         fileName = fileName.split('.')[0].split('\\')[-1]
@@ -35,6 +36,7 @@ def createImage(path, newPath, textTrain, textValid):
         #         f.write('\n')
         if int(fileName)>=0 and int(fileName)<=2200:
             im.save(newPath+fileName+'_co.png')
+            shutil.copy(labelPath+fileName+'.txt',newLabelPath+fileName+'.txt')
                 
             # im = cv2.imread(newPath+fileName+'_co.png')
             # img_gray = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
